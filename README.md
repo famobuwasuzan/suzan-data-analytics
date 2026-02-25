@@ -1,12 +1,25 @@
 # Suzan’s Data Analytics Portfolio
 
-Hello, I’m Suzan. This portfolio contains data-analytics projects focused on civil service, banking, and retail/tech use cases.
-I’m learning SQL, Tableau, Excel/Sheets and Python and I use these projects to practise data cleaning, analysis and visual storytelling.
+Hello, I’m Suzan. I am building practical data analytics projects to develop strong skills in SQL, Excel, and data visualisation.
+My focus areas include:
+- Data cleaning and preparation
+- Exploratory data analysis
+- Business insight generation
+- Structured SQL workflow
 
-## Projects
-1. [Civil Service — Employment & Housing Analysis](./civil-service-employment-housing)
-2. [Banking — Customer Transactions & Loan Risk](./banking-loan-risk)
-3. [Retail — E-commerce Sales & Customer Insights](./ecommerce-sales-insights)
+## Current Projects
+1. Global Layoffs Data Cleaning (MySQL)
+End-to-end SQL project covering data cleaning, deduplication using window functions, data type conversion, and handling missing values.
+
+## Tools & Skills
+- SQL (MySQL)
+- Data Cleaning
+- Window Functions
+- Joins
+- Data Type Conversion
+- Excel (in progress)
+- Tableau (in progress)
+- Python (learning)
 
 ## Contact
 - Email: *famobuwasuzan@gmail.com*
